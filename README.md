@@ -12,8 +12,8 @@ A full-stack project built with Java Spring Boot, React, and MySQL. This applica
 ## 🛠 Tech Stack
 
 - **Backend**: Java 21 with Spring Boot 3
-- **Frontend**: React.js (TypeScript)
+- **Frontend**: React.js (JavaScript)
 - **Database**: MySQL 8.0
 - **Persistence Layer**: Spring Data JPA / Hibernate
-- **Security**: Spring Security & JWT (אופציונלי - תוסיף אם רלוונטי)
+- **Security**: Spring Security & JWT
 - **API Documentation**: SpringDoc OpenAPI / Swagger
