@@ -1,6 +1,6 @@
 # 🍃 Spring Boot & React Full-Stack Engine
 
-![Java 21](https://img.shields.io/badge/Language-Java_21-orange)
+![Java 21](https://img.shields.io/badge/Language-Java_21-b07219)
 ![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot_3-6DB33F)
 ![React](https://img.shields.io/badge/Frontend-React_18-20232A)
 ![MySQL](https://img.shields.io/badge/Database-MySQL_8.0-4479A1)
