@@ -1,10 +1,10 @@
 # 🍃 Spring Boot & React Full-Stack Engine
 
-![Java 21](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Security](https://img.shields.io/badge/Security-JWT-red?style=for-the-badge)
+![Java 21](https://img.shields.io/badge/Language-Java_21-orange)
+![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot_3-6DB33F)
+![React](https://img.shields.io/badge/Frontend-React_18-20232A)
+![MySQL](https://img.shields.io/badge/Database-MySQL_8.0-4479A1)
+![Security](https://img.shields.io/badge/Security-JWT%20%26%20BCrypt-red)
 
 <!--
 <div align="center">
